@@ -1,5 +1,6 @@
-Starbuck's Capstone Challenge
-Instructions for the project can be found in the Starbucks Project Workspace.
+Starbucks Capstone Challenge
+
+Exploratory data analysis of starbucks data.
 
 Dataset overview
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
