@@ -1,4 +1,4 @@
-Starbucks Capstone Challenge
+##Starbucks Capstone Challenge
 
 Exploratory data analysis of starbucks data.
 
