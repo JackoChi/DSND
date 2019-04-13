@@ -79,3 +79,9 @@ amount: (numeric) money spent in "transaction"
 reward: (numeric) money gained from "offer completed"
 
 time: (numeric) hours after start of test
+
+# Licensing, Acknowledgements, etc.
+Code released under the MIT license.
+
+Thanks to Starbucks for the dataset, and to Udacity for bringing the opportunity to work with it.
+
