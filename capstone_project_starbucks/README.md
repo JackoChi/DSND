@@ -29,9 +29,7 @@ reward equal to a fraction of the amount spent. In an informational offer, there
 
 requisite amount that the user is expected to spend. Offers can be delivered via multiple channels. The basic task is to use 
 
-the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of 
-
-offer.
+the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
 
 ## Data Dictionary
 ### profile.json：
