@@ -80,6 +80,23 @@ reward: (numeric) money gained from "offer completed"
 
 time: (numeric) hours after start of test
 
+# Results
+
+Now we know that there are more female customers than males in the data set, and the female customers intend to have a higher
+
+income. The whole group of customers in the group have a higher salary than the US median income, and this shows that 
+
+Starbucks is favourable by the middle class.
+
+Among all the offers, the offer with difficulty 10 has the highest completion rate, which may shed light on future promotion 
+
+strategy of Starbucks.
+
+Unfortunately, these clusters seem to be appropriate for segmenting the customers’ attribute, but not for the transactional 
+
+information. This will be one direction of my future studies. I also want to do supervised learning to find a more effective
+
+promotion strategy given customers’ historical data.
 # Licensing, Acknowledgements, etc.
 Code released under the MIT license.
 
