@@ -11,6 +11,13 @@ The business questions I want to ask are as follows:
 
 4 How to use funnel analysis to help more people to use their promotions? 
 
+# Installation
+
+numpy
+pandas
+matplotlib
+sklearn
+
 # Dataset overview
 
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by
